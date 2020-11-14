@@ -1,0 +1,3958 @@
+INTENT – GREETING
+Hello
+
+Hi
+
+Hello, this is [NAME OF EMPLOYEE]
+
+Hello, this is [NAME OF EMPLOYEE] from [RESTAURANT NAME]
+
+Hello, [RESTAURANT NAME]
+
+Good morning
+ 
+Good afternoon
+ 
+Good evening
+
+This is [NAME] Good morning
+ 
+This is [NAME] Good afternoon
+ 
+This is [NAME] Good evening
+
+This is [NAME] speaking. Good morning
+ 
+This is [NAME] speaking. Good afternoon
+ 
+This is [NAME] speaking. Good evening
+
+[NAME] speaking. Good morning
+ 
+[NAME] speaking. Good afternoon
+ 
+[NAME] speaking. Good evening
+
+[RESTAURANT NAME] Good morning
+ 
+[RESTAURANT NAME] Good afternoon
+ 
+[RESTAURANT NAME] Good evening
+
+Thank you for caling [RESTAURANT NAME]. Good morning
+ 
+Thank you for caling [RESTAURANT NAME]. Good afternoon
+ 
+Thank you for caling [RESTAURANT NAME]. Good evening
+
+Hello. How may I help you?
+
+Hello. May I help you?
+
+Hi. How may I help you?
+
+Hi. May I help you?
+
+Hello. How can I help you?
+
+Hi. How can I help you?
+ 
+Hello. Can I be of assistance?
+
+Hi. Can I be of assistance?
+
+Hello. Is there something can help you with?
+
+Hi. Is there something I can help you with?
+
+Hello. May I assist you?
+
+Hi. May I assist you?
+
+Hello. How may I assist you?
+
+Hi. How may I assist you?
+
+Hello. May I be of assiatance?
+
+Hi. May I be of assistance?
+
+Hello. How may I be of assistance?
+
+Hi. How may I be of assistance?
+
+Good morning. How may I help you?
+
+Good afternoon. How may I help you?
+
+Good evening. How may I help you?
+
+Good morning. May I help you?
+
+Good afternoon. May I help you?
+
+Good evening. May I help you?
+
+Good morning. How can I help you?
+
+Good afternoon. How can I help you?
+
+Good evening. How can I help you?
+
+Good morning. Can I be of assistance?
+
+Good afternoon. Can I be of assistance?
+
+Good evening. Can I be of assistance?
+
+Good morning. How may I be of assistance?
+
+Good afternoon. How may I be of assistance?
+
+Good evening. How may I be of assistance?
+
+Good morning. May I be of assistance?
+
+Good afternoon. May I be of assistance?
+
+Good evening. May I be of assistance?
+ 
+Good morning. Is there something can help you with?
+
+Good afternoon. Is there something can help you with?
+
+Good evening. Is there something can help you with?
+
+Good morning. How may I assist you?
+
+Good afternoon. How may I assist you?
+
+Good evening. How may I assist you?
+
+Good morning. May I assist you? 
+
+Good afternnon. May I assist you? 
+
+Good evening. May I assist you? 
+
+Good morning. How may I help you today?
+
+Good afternoon. How may I help you today?
+
+Good evening. How may I help you today?
+
+[RESTAURANT NAME]. May I help you?
+
+[RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. How may I help you?
+
+[RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. How can I help you?
+
+[RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. Can I help you?
+
+[RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. Can I be of assistance?
+
+[RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. Is there something I can help you with?
+
+[RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. May I assist you?
+
+[RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. How may I assist you?
+
+[RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. How may I be of assistance?
+
+[RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. May I be of assistance?
+
+[RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. How may I help you today?
+
+[RESTAURANT NAME]. How may I help you?
+
+[RESTAURANT NAME]. How can I help you?
+
+[RESTAURANT NAME]. Can I help you?
+
+[RESTAURANT NAME]. Can I be of assistance?
+
+[RESTAURANT NAME]. Is there something I can help you with?
+
+[RESTAURANT NAME]. May I assist you?
+
+[RESTAURANT NAME]. How may I assist you?
+
+[RESTAURANT NAME]. How may I be of assistance?
+
+[RESTAURANT NAME]. May I be of assistance?
+
+[RESTAURANT NAME]. How may I help you today?
+
+This is [RESTAURANT NAME]
+
+Thank you for calling [RESTAURANT NAME]. How may I help you?
+
+Can I help you?
+
+How may I help you?
+
+How may I help you today?
+
+May I help you?
+
+How can I help you?
+
+Can I be of assistance?
+
+Is there something I can help you with?
+
+May I assist you?
+
+How may I assist you?
+
+How may be of assistance?
+
+May I be of assistance? 
+
+This is [NAME] speaking. How may I help you?
+
+This is [NAME] speaking. May i help you?
+
+This is [NAME] speaking. How can I help you?
+
+This is [NAME] speaking. Can I help you?
+
+This is [NAME] speaking. Can I be of assistance?
+
+This is [NAME] speaking. Is there something I can help you with?
+
+This is [NAME] speaking. May I assist you?
+
+This is [NAME] speaking. How may I assist you?
+
+This is [NAME] speaking. How may I be of assistance?
+
+This is [NAME] speaking. May I be of assistance?
+
+This is [NAME] speaking. How may I help you today?
+
+Hi. [RESTAURANT NAME]. How may I help you?
+
+Hi. [RESTAURANT NAME]. May I help you?
+
+Hi. [RESTAURANT NAME]. How can I help you?
+
+Hi. [RESTAURANT NAME]. Can i help you?
+
+Hi. [RESTAURANT NAME]. Can I be of assistance?
+
+Hi. [RESTAURANT NAME]. Is there something I can help you with?
+
+Hi. [RESTAURANT NAME]. May I assist you?
+
+Hi. [RESTAURANT NAME]. How may I assist you?
+
+Hi. [RESTAURANT NAME]. How may I be of assistance?
+
+Hi. [RESTAURANT NAME]. May I be of assistance?
+
+Hi. [RESTAURANT NAME]. How may I help you today?
+
+Hello, this is [RESTAURANT NAME]. How can I help you?
+
+Hello, this is [RESTAURANT NAME]. How may I help you?
+
+Hello, this is [RESTAURANT NAME]. May I help you?
+
+Hello, this is [RESTAURANT NAME]. Can I help you?
+
+Hello, this is [RESTAURANT NAME]. Can I be of assistance?
+
+Hello, this is [RESTAURANT NAME]. Is there something I can help you with?
+
+Hello, this is [RESTAURANT NAME]. May I assist you?
+
+Hello, this is [RESTAURANT NAME]. How may I assist you?
+
+Hello, this is [RESTAURANT NAME]. How may I be of assistance?
+
+Hello, this is [RESTAURANT NAME].May I be of assistance?
+
+Hello, this is [RESTAURANT NAME]. How may I help you today?
+
+[RESTAURANT NAME]. How can I help you?
+
+[RESTAURANT NAME]. How may I help you?
+
+[RESTAURANT NAME]. May I help you?
+
+[RESTAURANT NAME]. Can I help you?
+
+[RESTAURANT NAME]. Can I be of assistance?
+
+[RESTAURANT NAME]. Is there something I can help you with?
+
+[RESTAURANT NAME]. May I assist you?
+
+[RESTAURANT NAME]. How may I assist you?
+
+[RESTAURANT NAME]. How may I be of assistance?
+
+[RESTAURANT NAME].May I be of assistance?
+
+[RESTAURANT NAME]. How may I help you today?
+
+Thank you for calling [RESTAURANT NAME]. I’m [NAME]. How can I help you?
+
+Thank you for calling [RESTAURANT NAME]. How may I help you?
+
+Thank you for calling [RESTAURANT NAME]. May I help you?
+
+Thank you for calling [RESTAURANT NAME]. Can I help you?
+
+Thank you for calling [RESTAURANT NAME]. Can I be of assistance?
+
+Thank you for calling [RESTAURANT NAME]. Is there something I can help you with?
+
+Thank you for calling [RESTAURANT NAME]. May I assist you?
+
+Thank you for calling [RESTAURANT NAME]. How may I assist you?
+
+Thank you for calling [RESTAURANT NAME]. How may I be of assistance?
+
+Thank you for calling [RESTAURANT NAME].May I be of assistance?
+
+Thank you for calling [RESTAURANT NAME]. How may I help you today?
+
+Just a minute. [RESTAURANT PUTS AI ON HOLD]
+
+Just a moment. [RESTAURANT PUTS AI ON HOLD]
+
+Just a second. [RESTAURANT PUTS AI ON HOLD]
+
+Just a minute, please. [RESTAURANT PUTS AI ON HOLD]
+
+Just a moment, please. [RESTAURANT PUTS AI ON HOLD]
+
+Just a second, please. [RESTAURANT PUTS AI ON HOLD]
+
+Can you wait a minute. [RESTAURANT PUTS AI ON HOLD]
+
+Can you wait a moment. [RESTAURANT PUTS AI ON HOLD]
+
+Can you wait a second. [RESTAURANT PUTS AI ON HOLD]
+
+Can you wait a minute, please. [RESTAURANT PUTS AI ON HOLD]
+
+Can you wait a moment, please. [RESTAURANT PUTS AI ON HOLD]
+
+Can you wait a second, please. [RESTAURANT PUTS AI ON HOLD]
+
+Can you hold on, please. [RESTAURANT PUTS AI ON HOLD]
+
+Hold on, please. [RESTAURANT PUTS AI ON HOLD]
+
+Hold on a minute. [RESTAURANT PUTS AI ON HOLD]
+
+Hold on a moment. [RESTAURANT PUTS AI ON HOLD]
+
+Hold on a second. [RESTAURANT PUTS AI ON HOLD]
+
+Hang on a minute. [RESTAURANT PUTS AI ON HOLD]
+
+Hang on a moment. [RESTAURANT PUTS AI ON HOLD]
+
+Hang on a second. [RESTAURANT PUTS AI ON HOLD]
+
+Wait a minute. [RESTAURANT PUTS AI ON HOLD]
+
+Wait a moment. [RESTAURANT PUTS AI ON HOLD]
+
+Wait a second. [RESTAURANT PUTS AI ON HOLD]
+
+Wait a minute, please. [RESTAURANT PUTS AI ON HOLD]
+
+Wait a moment, please. [RESTAURANT PUTS AI ON HOLD]
+
+Wait a second, please. [RESTAURANT PUTS AI ON HOLD]
+
+In a minute, please. [RESTAURANT PUTS AI ON HOLD]
+
+In a moment, please. [RESTAURANT PUTS AI ON HOLD]
+
+In a second, please. [RESTAURANT PUTS AI ON HOLD]
+
+In a minute. [RESTAURANT PUTS AI ON HOLD]
+
+In a moment. [RESTAURANT PUTS AI ON HOLD]
+
+In a second. [RESTAURANT PUTS AI ON HOLD]
+
+STORY - RESERVATION REQUEST
+
+RESTAURANT: Good morning 
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good afternoon 
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good evening 
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good morning 
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good afternoon 
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good evening
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good morning 
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good afternoon 
+AI: Hi, I’d like to book a table 
+
+RESTAURANT: Good evening 
+AI: Hi, I’d like to book a table 
+
+RESTAURANT: Good morning 
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good afternoon 
+AI: Hi, I’d like to reserve a table 
+
+RESTAURANT: Good evening 
+AI: Hi, I’d like to reserve a table
+
+RESTAURANT: Good morning 
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good afternoon 
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good evening 
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good morning 
+AI: Hi, please book me a table 
+
+RESTAURANT: Good afternoon 
+AI: Hi, please book me a table 
+
+RESTAURANT: Good evening 
+AI: Hi, please book me a table
+
+RESTAURANT: Good morning 
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good afternoon 
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good evening 
+AI: Hi, please hold me a table
+
+RESTAURANT: Good morning 
+AI: Hi, would you please reserve me a table
+
+RESTAURANT: Good afternoon 
+AI: Hi, would you please reserve me a table 
+
+RESTAURANT: Good evening 
+AI: Hi, would you please reserve me a table
+
+RESTAURANT: Good morning 
+AI: Hi, would you please book me a table 
+
+RESTAURANT: Good afternoon 
+AI: Hi, would you please book me a table 
+
+RESTAURANT: Good evening 
+AI: Hi, would you please book me a table
+
+RESTAURANT: Good morning 
+AI: Hi, would you please hold me a table 
+
+RESTAURANT: Good afternoon 
+AI: Hi, would you please hold me a table 
+
+RESTAURANT: Good evening 
+AI: Hi, would you please hold me a table
+
+RESTAURANT: Good morning 
+AI: Hi, I'd like to book a table, please 
+
+RESTAURANT: Good afternoon 
+AI: Hi, I’d like to book a table, please
+
+RESTAURANT: Good evening 
+AI: Hi, I’d like to book a table, please
+
+RESTAURANT: Good morning 
+AI: Hi, I'd like to reserve a table, please 
+
+RESTAURANT: Good afternoon 
+AI: Hi, I’d like to reserve a table, please
+
+RESTAURANT: Good evening 
+AI: Hi, I’d like to reserve a table, please
+
+RESTAURANT: Good morning 
+AI: Hi, I'd like to hold a table, please 
+
+RESTAURANT: Good afternoon 
+AI: Hi, I’d like to hold a table, please
+
+RESTAURANT: Good evening 
+AI: Hi, I’d like to hold a table, please
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good evening. May I help you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good morning. How can I help you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good evening. How can I help you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, I’m calling to book a table
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI: Hi, I’m calling to book a table
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, I’m calling to book a table
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, I’m calling to book a table
+
+RESTAURANT: Good morning. How may I assist you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, I’m calling to book a table
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, I’m calling to book a table
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, I’m calling to book a table
+
+RESTAURANT: Good morning. How may I help you today? 
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, I’m calling to book a table 
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, I’m calling to book a table
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good evening. May I help you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good morning. How can I help you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good evening. How can I help you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, I’m calling to reserve a table
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI: Hi, I’m calling to reserve a table
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, I’m calling to reserve a table
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, I’m calling to reserve a table
+
+RESTAURANT: Good morning. How may I assist you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, I’m calling to reserve a table
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, I’m calling to reserve a table
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, I’m calling to reserve a table
+
+RESTAURANT: Good morning. How may I help you today? 
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, I’m calling to reserve a table 
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, I’m calling to reserve a table
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good evening. May I help you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good morning. How can I help you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good evening. How can I help you?
+AI:Hi, I'd like to book a table 
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good morning. How may I assist you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, I'd like to book a table  
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good morning. How may I help you today? 
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, I'd like to book a table 
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good evening. May I help you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good morning. How can I help you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good evening. How can I help you?
+AI:Hi, I'd like to reserve a table 
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good morning. How may I assist you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, I'd like to reserve a table  
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good morning. How may I help you today? 
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, I'd like to reserve a table 
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, please reserve me a table  
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good evening. May I help you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good morning. How can I help you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good evening. How can I help you?
+AI:Hi, please reserve me a table 
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, please reserve me a table  
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good morning. How may I assist you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good morning. How may I help you today? 
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, please book me a table  
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good evening. May I help you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good morning. How can I help you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good evening. How can I help you?
+AI:Hi, please book me a table 
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, please book me a table  
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, please book me a table 
+
+RESTAURANT: book me a table 
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, please book me a table 
+
+RESTAURANT: Good morning. How may I help you today? 
+AI: Hi, please book me a table 
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, please book me a table 
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, please book me a table
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, please hold me a table  
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good evening. May I help you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good morning. How can I help you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good evening. How can I help you?
+AI:Hi, please hold me a table 
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, please hold me a table  
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, please hold  me a table 
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good morning. How may I assist you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, please hold  me a table 
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good morning. How may I help you today? 
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, please hold me a table 
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, please hold me a table
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good evening. May I help you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good morning. How can I help you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good evening. How can I help you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good morning. How may I assist you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good morning. How may I help you today? 
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good evening. May I help you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good morning. How can I help you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good evening. How can I help you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good morning. How may I assist you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good morning. How may I help you today? 
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, would you please book me a table?
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good evening. May I help you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good morning. How can I help you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good evening. How can I help you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good morning. How may I assist you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good morning. How may I help you today? 
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good evening. May I help you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good morning. How can I help you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good evening. How can I help you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good morning. How may I assist you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good morning. How may I help you today? 
+AI:Hi,  I'd like to book a table, please
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, I'd like to book a table, please
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good evening. May I help you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good morning. How can I help you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good evening. How can I help you?
+AI:Hi,  I'd like to reserve a table, please
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good morning. How may I assist you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good morning. How may I help you today? 
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, I'd like to reserve a table, please
+
+RESTAURANT: Good morning. How may I help you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good afternoon. How may I help you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good evening. How may I help you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good morning. May I help you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good afternoon. May I help you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good evening. May I help you?
+AI:Hi,  I'd like to hold a table, please
+
+RESTAURANT: Good morning. How can I help you?
+AI:Hi,  I'd like to hold a table, please
+
+RESTAURANT: Good afternoon. How can I help you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good evening. How can I help you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good morning. Can I help you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good afternoon. Can I help you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good evening. Can I help you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good morning. Can I be of assistance?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good afternoon. Can I be of assistance?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good evening. Can I be of assistance?
+AI:Hi,  I'd like to hold a table, please
+
+RESTAURANT: Good morning. Is there something I can help you with?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good afternoon. Is there something I can help you with?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good evening. Is there something I can help you with?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good morning. May I assist you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good afternoon. May I assist you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good evening. May I assist you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good morning. How may I assist you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good afternoon. How may I assist you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good evening. How may I assist you?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good morning. How may I be of assistance?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good afternoon. How may I be of assistance?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good evening. How may I be of assistance?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good morning. May I be of assistance?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good afternoon. May I be of assistance?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good evening. May I be of assistance?
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good morning. How may I help you today? 
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good afternoon. How may I help you today? 
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: Good evening. How may I help you today? 
+AI: Hi, I'd like to hold a table, please
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, I'm calling to book a table
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, I'm calling to reserve a table 
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, I'd like to book a table
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, I'd like to reserve a table
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, please reserve me a table 
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, please book me a table
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, please hold me a table
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, would you please book me a table? 
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, I'd like to book a table please
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, I'd like to reserve a table please
+
+RESTAURANT: [RESTAURANT NAME]
+AI: Hi, I'd like to hold a table please
+
+RESTAURANT: [RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. How may I help you?
+AI: Hi, I'm calling to reserve a table
+
+RESTAURANT: [RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. How can I help you?
+AI: Hi, I'm calling to book a table
+
+RESTAURANT: [RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. Can I help you?
+AI: Hi, I'd like to book a table
+
+RESTAURANT: [RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. Can I be of assistance?
+AI: Hi, I'd like to reserve a table
+
+RESTAURANT: [RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. Is there something I can help you with?
+AI: Hi, please reserve me a table
+
+RESTAURANT: [RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. May I assist you?
+AI: Hi, please book me a table
+
+RESTAURANT: [RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. How may I assist you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: [RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. How may I be of assistance?
+AI: Hi, would you please book me a table
+
+RESTAURANT: [RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. May I be of assistance?
+AI: Hi, I'd like to reserve a table please
+
+RESTAURANT: [RESTAURANT NAME], [NAME OF EMPLOYEE] speaking. How may I help you today?
+AI: Hi, I'd like to book a table please
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. How may I help you?
+AI: Hi, I'm calling to book a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. How can I help you?
+AI: Hi, I'm calling to reserve a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. Can I help you?
+AI: Hi, I'd like to book a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. Can I be of assistance?
+AI: Hi, I'd like to reserve a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. Is there something I can help you with?
+AI: Hi, please reserve me a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. May I assist you?
+AI: Hi, please book me a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. How may I assist you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. How may I be of assistance?
+AI: Hi, would you please book me a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. May I be of assistance?
+AI: Hi, I'd like to reserve a table please
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. How may I help you today?
+AI: Hi, I'd like to book a table please
+
+RESTAURANT: How may I help you?
+AI: Hi, I'm calling to book a table
+
+RESTAURANT: May I help you?
+AI: Hi, I'm calling to reserve a table 
+
+RESTAURANT: How can I help you?
+AI: Hi, I'd like to book a table
+
+RESTAURANT: Can I help you?
+AI: Hi, I'd like to reserve a table
+
+RESTAURANT: Can I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: May I assist you?
+AI: Hi, please book me a table
+
+RESTAURANT: How may I assist you?
+AI: Hi, please hold me a table
+
+RESTAURANT: How may I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: May I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Is there something I can help you with?
+AI: Hi, would you please book me a table? 
+
+RESTAURANT: How can I be of assistance?
+AI: Hi, I'd like to book a table please
+
+RESTAURANT: How may I help you today?
+AI: Hi, I'd like to reserve a table please
+
+RESTAURANT: This is [NAME] speaking. How may I help you?
+AI: Hi, I'm calling to book a table
+
+RESTAURANT: This is [NAME] speaking. May I help you?
+AI: Hi, I'm calling to reserve a table 
+
+RESTAURANT: This is [NAME] speaking. How can I help you?
+AI: Hi, I'd like to book a table
+
+RESTAURANT: This is [NAME] speaking. Can I help you?
+AI: Hi, I'd like to reserve a table
+
+RESTAURANT: This is [NAME] speaking. Can I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: This is [NAME] speaking. May I assist you?
+AI: Hi, please book me a table
+
+RESTAURANT: This is [NAME] speaking. How may I assist you?
+AI: Hi, please hold me a table
+
+RESTAURANT: This is [NAME] speaking. How may I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: This is [NAME] speaking. May I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: This is [NAME] speaking. Is there something I can help you with?
+AI: Hi, would you please book me a table? 
+
+RESTAURANT: This is [NAME] speaking. How can I be of assistance?
+AI: Hi, I'd like to book a table please
+
+RESTAURANT: This is [NAME] speaking. How may I help you today?
+AI: Hi, I'd like to reserve a table please
+
+RESTAURANT: Hello, this is [RESTAURANT NAME]. How may I help you?
+AI: Hi, I'm calling to book a table
+
+RESTAURANT: Hello, this is [RESTAURANT NAME]. May I help you?
+AI: Hi, I'm calling to reserve a table 
+
+RESTAURANT: Hello, this is [RESTAURANT NAME]. How can I help you?
+AI: Hi, I'd like to book a table
+
+RESTAURANT: Hello, this is [RESTAURANT NAME]. Can I help you?
+AI: Hi, I'd like to reserve a table
+
+RESTAURANT: Hello, this is [RESTAURANT NAME]. Can I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: Hello, this is [RESTAURANT NAME]. May I assist you?
+AI: Hi, please book me a table
+
+RESTAURANT: Hello, this is [RESTAURANT NAME]. How may I assist you?
+AI: Hi, please hold me a table
+
+RESTAURANT: Hello, this is [RESTAURANT NAME]. How may I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: Hello, this is [RESTAURANT NAME]. May I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Hello, this is [RESTAURANT NAME]. Is there something I can help you with?
+AI: Hi, would you please book me a table? 
+
+RESTAURANT: Hello, this is [RESTAURANT NAME]. How can I be of assistance?
+AI: Hi, I'd like to book a table please
+
+RESTAURANT: Hello, this is [RESTAURANT NAME]. How may I help you today?
+AI: Hi, I'd like to reserve a table please
+
+RESTAURANT: [RESTAURANT NAME]. How may I help you?
+AI: Hi, I'm calling to book a table
+
+RESTAURANT: [RESTAURANT NAME]. May I help you?
+AI: Hi, I'm calling to reserve a table 
+
+RESTAURANT: [RESTAURANT NAME]. How can I help you?
+AI: Hi, I'd like to book a table
+
+RESTAURANT: [RESTAURANT NAME]. Can I help you?
+AI: Hi, I'd like to reserve a table
+
+RESTAURANT: [RESTAURANT NAME]. Can I be of assistance?
+AI: Hi, please reserve me a table 
+
+RESTAURANT: [RESTAURANT NAME]. May I assist you?
+AI: Hi, please book me a table
+
+RESTAURANT: [RESTAURANT NAME]. How may I assist you?
+AI: Hi, please hold me a table
+
+RESTAURANT: [RESTAURANT NAME]. How may I be of assistance?
+AI: Hi, would you please hold me a table?
+
+RESTAURANT: [RESTAURANT NAME]. May I be of assistance?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: [RESTAURANT NAME]. Is there something I can help you with?
+AI: Hi, would you please book me a table? 
+
+RESTAURANT: [RESTAURANT NAME]. How can I be of assistance?
+AI: Hi, I'd like to book a table please
+
+RESTAURANT: [RESTAURANT NAME]. How may I help you today?
+AI: Hi, I'd like to reserve a table please
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. I’m [NAME]. How may I help you?
+AI: Hi, I'm calling to book a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. I’m [NAME]. How can I help you?
+AI: Hi, I'm calling to reserve a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. I’m [NAME]. Can I help you?
+AI: Hi, I'd like to book a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. I’m [NAME]. Can I be of assistance?
+AI: Hi, I'd like to reserve a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. I’m [NAME]. Is there something I can help you with?
+AI: Hi, please reserve me a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. I’m [NAME]. May I assist you?
+AI: Hi, please book me a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. I’m [NAME]. How may I assist you?
+AI: Hi, would you please reserve me a table?
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. I’m [NAME]. How may I be of assistance?
+AI: Hi, would you please book me a table
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. I’m [NAME]. May I be of assistance?
+AI: Hi, I'd like to reserve a table please
+
+RESTAURANT: Thank you for calling [RESTAURANT NAME]. I’m [NAME]. How may I help you today?
+AI: Hi, I'd like to book a table please
+
+RESTAURANT: We regret to inform you that we don’t make reservations on [DAY]
+AI: Thanks.
+
+RESTAURANT: We regret to inform you that we don’t make reservations on [DAY]
+AI: Could you give me a day you will resume booking?
+RESTAURANT: Certainly. We will resume booking tomorrow at [TIME]
+AI: Thanks.
+
+RESTAURANT: Unfortunately our tables are fully booked on [DAY].
+AI: Is there a table available on [EARLIER DAY]?
+RESTAURANT: Sure.
+AI: Thanks.
+
+RESTAURANT: I’m afraid that we don’t take table reservations on [DAY].
+AI: No problem. Thanks.
+
+RESTAURANT: Our tables are fully booked on [DAY]. May I suggest you contact [NAME OF ANOTHER RESTAURANT].
+AI: I'd love to but is there a table available on [LATER DAY]?
+RESTAURANT: Just a minute. I will call you back.
+AI: Ok, thanks.
+
+RESTAURANT: Our tables are fully booked on [DAY]. May I suggest you contact [NAME OF ANOTHER RESTAURANT].
+AI: That’s very kind of you. Thanks.
+
+RESTAURANT: Unfortunately we don’t take reservations on [DAY]. 
+AI: Could you give me your earliest availability?
+RESTAURANT: Um, on [DAY]
+AI: Ok, thanks.
+
+RESTAURANT: Unfortunately we don’t take reservations on [DAY]. We suggest you contact one of our other restaurants  in the area.
+AI: What a delightful idea, but is there a table avialable for [LATER DAY]
+RESTAURANT: Excuse me, our booking system is dowm at the moment.
+AI: Ok, thanks
+
+RESTAURANT: I’m sorry but we don’t take reservations. If you come before 7 there’s a good chance you’ll get a table on Thursday.
+AI: Uh, OK. Thanks.
+
+RESTAURANT: I’m sorry but we don’t take reservations. If you come before 7 there’s a good chance you’ll get a table on Thursday.
+AI: Um, is there a table available on Friday at [TIME]
+RESTAURANT: Sure.
+AI: Uh, OK. Thanks.
+
+RESTAURANT: I’m sorry but we don’t take bookings on [DAY]. If you come before 7 there’s a good chance you’ll get a table on Thursday.
+AI: Could you give me your earliest availability on Friday?
+RESTAURANT: [TIME]
+AI: Uh, OK. Thanks.
+
+RESTAURANT: We’ve actually closed bookings for a private party. Sorry about that. 
+AI: Could you give me the earliest time you will resume normal booking?
+RESTAURANT: At [TIME]
+AI: Uh, that’s fine. Thanks. 
+
+RESTAURANT: We’ve actually closed bookings this afternoon for a special party. Sorry about that. 
+AI: Is there a table available tomorrow at [TIME]
+RESTAURANT: Certainly 
+AI: Uh, that’s fine. Thanks. 
+
+RESTAURANT: We’ve actually closed table bookings this afternoon for a private party. Sorry about that. 
+AI: Ok. Thanks. 
+
+RESTAURANT: We’ve actually closed bookings this morning for a private party. Sorry about that. 
+AI: Is there a table available at [LATER TIME]
+RESTAURANT: Unfortunately tghe party will end late at [TIME]
+AI: Could you give me your earliest availability?
+RESTAURANT. Tomorrow at [TIME]. Is that Ok?
+AI: That's fine. Thanks. 
+
+RESTAURANT: I’d love to, but we’ve actually closed bookings this afternoon for a private party. Sorry about that. 
+AI: Uh, that’s fine. Thanks. 
+
+RESTAURANT: I’d love to, but we’ve actually closed bookings this afternoon for a private party. Sorry about that. 
+AI: Could you give me your ealiest availability?
+TIME: At [TIME]
+AI: Uh, that’s fine. Thanks. 
+
+RESTAURANT: I’d love to, but we’ve actually closed reservations this morning for a private party. Sorry about that. 
+AI; Is there a table available at [LATER TIME]
+RESTAURANT: Unfortunately our booking system is down at the moment.
+AI: Ok. Thanks. 
+
+RESTAURANT: I’d love to, but we don’t take reservations. If you come before 7 there’s a good chance you’ll get a table on [DAY]
+AI: OK. Thanks. 
+
+RESTAURANT: We close reservations on Mondays, sorry about that.
+AI: Is there a table available on Tuesday at?
+RESTAURANT: Unfortunately, our tables are fully booked till [DAY]
+AI: No problem, have a good day
+
+RESTAURANT: We’re closed on [DAY], sorry about that.
+AI: Could you give me your earliest availability?
+RESTAURANT: On [FOLLOWING DAY]
+AI: No problem.
+
+RESTAURANT: We’re actually closed on [DAY] afternoon, sorry about that.
+AI: Is there a table available on [FOLLOWING DAY] at [TIME]
+RESTAURANT: Unfortunately our tables are fully booked at that time
+AI: No problem, have a good day
+
+RESTAURANT: I wish I could, but we’re closed on [DAY], sorry about that.
+AI: No problem, have a good day
+
+RESTAURANT: Sorry, our tables are fully booked on [DAY]. Maybe tomorrow.
+AI: Is there a table available at [TIME]?
+RESTAURANT: I'm afraid we don't have a free table at that time
+AI: COuld you give me your earliest availability?
+RESTAURANT: At [TIME].
+AI: Thanks, have a good day
+
+RESTAURANT: I wish I could, but we’re closed on Fridays for special parties, sorry about that.
+AI: Is there a table avialable on Saturday at [TIME]
+RESTAURANT: Not until [TIME]
+AI: Uh, no problem.
+
+RESTAURANT: Can you wait a minute. [RESTAURANT PUTS AI ON HOLD] 
+AI: Sure, no problem
+RESTAURANT: OK, how can I help you?
+AI: I’m calling to book a table
+
+RESTAURANT: Can you call back in, say, [NUMBER] minutes? Our table booking system is down right now.
+AI: Sure, no problem
+
+RESTAURANT: Thank you, but I can’t make a booking right now. Our table booking system is down right now.
+AI: Sure, no problem
+
+RESTAURANT: Sorry, I don’t think I can make a booking right now. Our table booking system is down right now.
+AI: Sure, no problem
+
+RESTAURANT: I’m so sorry I can’t make it. Our tables re fully booked on Fridays. AI: Sure, no problem
+
+RESTAURANT: I’m so sorry I can’t make it. Our tables re fully booked on Fridays for special parties.
+ AI: Sure, no problem
+
+RESTAURANT: We aren’t taking table bookings for [DAY], it’s first come first served
+AI: Uh, OK, what are the chances of getting a table?
+
+RESTAURANT: If you get here by [TIME] you should get a table
+AI: Great, thanks
+
+RESTAURANT: I’d love to but we don’t make table reservations right now. If you called by [TIME] you should get a table
+AI: Great, thanks
+
+RESTAURANT: I’m so sorry I can’t make it. After [TIME]  we only take table reservations for special parties.
+AI: Sure, no problem
+
+RESTAURANT: We closed early this morning, around [TIME]
+AI: That’s fine
+
+RESTAURANT: We closed a bit early this afternoon for a special event.
+AI: Uh, Ok, no problem.
+
+RESTAURANT: We closed early this morning, around [TIME] for [NAME] anniversary 
+AI: That’s fine
+
+INTENT - ACKNOWLEDGE
+
+Certainly
+That’s very kind of you
+Yes of course
+What a delightful idea
+Sure, no problem
+With the greatest pleasure 
+Yeah, sure
+Thank you very much for the assistance
+OK
+It’s delightful to get assistance from you.
+That’s no problem
+It was nice talking with you.
+Glad talking to you
+Great talking with you
+Happy to have booked you a table
+Glad to have successfuly reserved you a table
+It was wonderful talking with you 
+I've enjoyed talking with you
+It was fun talking to you 
+It was very nice talking with you 
+Pleased to have reserved you a table
+
+STORY - RESERVATION DATE
+
+RESTAURANT: When would you like your table?
+AI: Um. I’m looking for something tomorrow
+
+RESTAURANT: Which day would you like your table?
+AI: Um. I’m looking for something on [DAY]
+
+RESTAURANT: Can you tell me which day you would like your table?
+AI: Um. On [DAY]
+
+RESTAURANT: On what date?
+AI: Um. On [DATE]
+
+RESTAURANT: For which day?
+AI: Um. It’s for tomorrow
+
+RESTAURANT: May I know the date?
+AI: Uh. It’s for [DATE]
+
+RESTAURANT: How long will you be staying for?
+AI: Uh. Two hours
+
+RESTAURANT: Certainly, when?
+AI: Um. It’s for [DAY] afternnon 
+
+RESTAURANT: What day?
+AI: Um. It’s for [DAY]
+
+RESTAURANT: May you tell me the day you would like to your table?
+AI: Uh. On [DAY]
+
+RESTAURANT: Of course, which day will you be joining us?
+AI: Uh. On [DAY] 
+
+RESTAURANT: OK. May i know when you would like your table?
+AI: Um. We need it for [DAY] afternoon
+
+RESTAURANT: What day do you need a table?
+AI: Um. It’s for tomorrow
+
+RESTAURANT: When do you need a table?
+AI: Um. It’s for tomorrow
+
+STORY - RESERVATION TIME
+
+RESTAURANT: What time would you like your table?
+AI: At [TIME]
+
+RESTAURANT: What time will you be joining us?
+AI: Can you, uh, book it for [TIME]?
+
+RESTAURANT: Of course, just tell me what time you’d like your table
+AI: [TIME] is good
+
+RESTAURANT: What time would like to have the table resserved?
+AI: [TIME] is fine
+
+RESTAURANT: OK. What time will you want your table reserved?
+AI: Is [TIME] available?
+
+RESTAURANT: Can you tell me what time would you like your table reserved?
+AI: [TIME] is good
+
+RESTAURANT: Just one moment please. For what time?
+AI: For, uh, [TIME]
+
+RESTAURANT: At what time?
+AI: It’s for [TIME]
+
+RESTAURANT: What time will you be arriving?
+AI: At [TIME]
+
+RESTAURANT: Certainly, what time?
+AI: Do you have, uh, anything between [TIME] and [TIME]?
+
+RESTAURANT: Certainly, what time?
+AI: Do you have, a table between [TIME] and [TIME]?
+
+RESTAURANT: When would you like to your table, please?
+AI: Between, uh, [TIME] and [TIME]
+
+RESTAURANT: What time?
+AI: We would prefer, uh, [TIME] to [TIME]
+
+RESTAURANT: What time, please?
+AI: We would prefer, uh, [TIME] to [TIME]
+
+RESTAURANT: What time do you want to book a table for?
+AI: Around [TIME] is good
+
+RESTAURANT: What time do you want to reserve a table for?
+AI: [TIME] is good
+
+RESTAURANT: What time do you want to book a table for?
+AI: [TIME] is perfect for us.
+
+RESTAURANT: What time?
+AI: It’s for [TIME]
+RESTAURANT: Sorry, we’re having some problems with the table booking system, can you hold for a minute please?
+AI: Yeah, sure
+RESTAURANT: OK, we’re back up and running. What time did you say you wanted the table for?
+A: It’s for [TIME]
+
+RESTAURANT: What time do you want your table?
+AI: It’s for [TIME]
+
+RESTAURANT: What time do you want your table?
+AI: [TIME] would be good for us.
+
+RESTAURANT: Oh, it looks like we’re having a problem with our table booking system. Can you wait for just one minute?
+AI: Yeah, sure
+RESTAURANT: Hello. I’m really sorry about this but I can’t access the bookings right now. Can you call back in [NUMBER] minutes?
+AI: Yeah, that’s no problem
+
+STORY PARTY NUMBER
+
+RESTAURANT: For how many people?
+AI: For [PARTY NUMBER] people
+
+RESTAURANT: OK. And for how many people?
+AI: It’s for [PARTY NUMBER] people
+
+RESTAURANT: A table for how many guests?
+AI: It’s for a party of [PARTY NUMBER]
+
+RESTAURANT: How many people will you need the table for?
+AI: [PARTY NUMBER] people
+
+RESTAURANT: How many guests will you need the table for?
+AI: It’s for [PARTY NUMBER] people
+
+RESTAURANT: How many peopel will you require the table for?
+AI: [PARTY NUMBER] people
+
+RESTAURANT: How many will be accomodated in the table?
+AI: It’s for a party of [PARTY NUMBER] 
+
+RESTAURANT: How many people will be in your table?
+AI: [PARTY NUMBER] people 
+
+RESTAURANT: And how many people?
+AI: We need a table for [PARTY NUMBER]
+
+RESTAURANT: Okay. Perfect. How many people?
+AI: We need a table for [PARTY NUMBER]
+
+RESTAURANT: How many are coming?
+AI: It’s for [PARTY NUMBER] people
+
+RESTAURANT: How many people will be in your party?
+AI: We need a table for [PARTY NUMBER]
+
+RESTAURANT: How many people do you want me to book your table for?
+AI: It’s for [PARTY NUMBER] people 
+
+RESTAURANT: How many people do you want me to reserve the table for?
+AI: For [PARTY NUMBER] people
+
+RESTAURANT: How many people do you want me to hold the table for?
+AI: We need a table for [PARTY NUMBER]
+
+RESTAURANT: So how many people is it for?
+AI: It’s for a group of [LARGE PARTY NUMBER]
+RESTAURANT: Oh OK, I’ll need to check that with the manager. Can I put you on hold for a sec?
+AI: Sure, that’s fine
+RESTAURANT: Hi again. Yes, we can do that
+AI: That’s great
+
+RESTAURANT: So how many people are coming?
+AI: It’s for [LARGE PARTY NUMBER] people
+RESTAURANT: Right, I’m going to have to check that with the manager. I’ll be back in a sec.
+AI: Sure, no problem
+RESTAURANT: Hi there. I’m sorry but we can’t take groups larger than [NUMBER]. 
+AI: Uh, OK, thanks anyway
+
+RESTAURANT: Okay. Perfect. How many people? Oh, sorry, can you hold a sec please?
+AI: Sure, no problem
+RESTAURANT: Hello, sorry we've got so many guests this afternoon. OK, so that’s for how many people?
+AI: We need a table for [PARTY NUMBER]
+
+STORY SPECIAL REQUESTS
+
+AI: Can we have a gluten free toast for breakfast? 
+RESTAURANT: It’s fine. I’ll notify our chef, and make a note of it beside your reservation.
+
+AI: Can we have fresh milk instead of long life? 
+RESTAURANT: Ok. I’ll notify our chef, and make a note of it beside your reservation.
+
+AI: Can we have flowers on the table? 
+RESTAURANT: Is it a special event?
+AI: Sure, it’s a special event
+RESTAURANT: Now that I am aware of the situation, I will make a note of it beside your booking.
+
+AI: Just so you know, one of our group members has a [ALLERGY TYPE]
+RESTAURANT: OK. I’ll notify our chef, and make a note of it beside your booking.
+AI: Thanks for that
+
+AI: Just so you know, one of our group members is pregnant.
+RESTAURANT: Now that I am aware of the situation, I will make a note of it beside your booking.
+AI: Thanks for that
+
+AI: Just so you know, one of our group members has a [ALLERGY TYPE]
+RESTAURANT: I’m sorry one of your members has this problem. Let’s see if there’s anything we can do to help the situation. 
+AI: Thanks for that
+
+AI: Just so you know, one of our group members is smoking.
+RESTAURANT: Let’s see if there’s anything we can do to help the situation. 
+AI: Thanks for that
+
+AI: Uh, one of our group members has a [ALLERGY TYPE]
+RESTAURANT: OK. Let me just check with our chef if we can accommodate that 
+AI: OK
+RESTAURANT: Hello, OK, so that’s no problem 
+AI: Great, thanks 
+
+AI: Uh, one of our group members has a [ALLERGY TYPE]
+RESTAURANT: I realize this situation is difficult. Let me check our chef can accommodate that
+AI: OK
+RESTAURANT: Hello, OK, so that’s no problem 
+AI: Great, thanks 
+
+AI: Uh, one of our group members has heart complications.
+RESTAURANT: I’m sorry one of your members has this problem. Let’s see if there’s anything we can do to help the situation. 
+AI: OK
+
+AI: Um, just so you know, one of our group members has a [ALLERGY TYPE]
+RESTAURANT: OK. Let me just check with our chef
+AI: OK
+RESTAURANT: Hello, actually we can’t guarantee there won’t be traces of [ALLERGEN] in the food, we use it for other recipes
+AI: Uh, OK, let me get back to you on this
+
+AI: Um, just so you know, one of our group members has a [ALLERGY TYPE] and I feel he should receive special attention.
+RESTAURANT: I would feel the same in your situation. Let me just check with our chef
+AI: OK
+RESTAURANT: Hello, actually we can’t guarantee there won’t be traces of [ALLERGEN] in the food, we use it for other recipes
+AI: Uh, OK, let me get back to you on this
+
+AI: Just so you know, one of our group members has a [ALLERGY TYPE]
+RESTAURANT: Oh, I’ll need to check that with another member of staff. Sorry, I’m new here. I’ll be back in a minute. 
+AI: OK
+RESTAURANT: Hi there, yeah, that’s no problem, we can accommodate that
+AI: Great, thanks
+
+AI: Just so you know, one of our group members has a [ALLERGY TYPE]
+RESTAURANT: Now that I am aware of the situation, I will definitely inform our chef about it.
+AI: Great, thanks
+
+AI: Just so you know, one of our group members needs wheelchair access
+RESTAURANT: That’s no problem; I’ll seat you at a suitable table. 
+AI: Great, thanks. 
+
+AI: Just so you know, one of our group members needs wheelchair access
+RESTAURANT: Now that I’m aware of it; I’ll seat you at a suitable table. 
+AI: Great, thanks. 
+
+AI: Just so you know, do you have wheelchair access?
+RESTAURANT: Yeah of course
+
+AI: Just so you know, uh, we will need wheelchair access
+RESTAURANT: I’ll make a note of it. Do you have any other requests?
+AI: No, that’s all
+
+AI: Uh, could you please note we will be celebrating a [OCCASION]?
+RESTAURANT: Yeah of course
+
+AI: Uh, could you please note we will be celebrating a [OCCASION]so we would love to be seated in the garden?
+RESTAURANT: I completely understand why you would want that. Let me see what I can do to help you.
+
+RESTAURANT: Is it a special occasion?
+AI: Yeah, it’s a [SPECIAL OCCASION]
+
+RESTAURANT: Is it for a special event
+AI: No, it’s not 
+
+STORY TABLE PREFERENCE
+
+RESTAURANT: Would you like a window table?
+AI: It doesn’t matter 
+
+RESTAURANT: Would you like a table with a sea view?
+AI: It doesn’t matter 
+
+RESTAURANT: Would you like a corner table or the middle?
+AI: Either is fine
+
+RESTAURANT: Would you like a table in a balcony?
+AI: It doesn’t matter 
+
+AI: Can we have a table by the window? 
+RESTAURANT: We can’t guarantee a window table, but I’ll note your preference.
+
+AI: Can we have a table away from housekeeping room? 
+RESTAURANT: It’s fine. I’ll note your preference.
+
+AI: Can we have a table with a sea view? 
+RESTAURANT: We can’t guarantee a sea view table, but I’ll note your preference.
+
+AI: Can we have a table away from elevator? 
+RESTAURANT: We can’t guarantee that, but I’ll note your preference.
+
+AI: Can we have a table a way from lifts? 
+RESTAURANT: We can’t guarantee that, but I’ll note your preference.
+
+AI: Can we have a table next to a bathroom? 
+RESTAURANT: We can’t guarantee a table next to the bathroom, but I’ll note your preference.
+
+AI: Can we have a table in the smoking zone? 
+RESTAURANT: We can’t guarantee a smoking zone table, but I’ll note your preference.
+
+RESTAURANT: Do you want a table indoors or in our garden area?
+AI: Uh, the garden sounds good
+
+RESTAURANT: Do you want a table indoors or in our balcony?
+AI: Uh, the balcony will be ok
+
+RESTAURANT: Do you want a table indoors or in our balcony?
+AI: Uh, indoors will be ok
+
+RESTAURANT: Would you like a table indoors?
+AI: No thanks, we’d like the garden
+
+RESTAURANT: Would you like a table in the balcony?
+AI: No thanks, we’d like to be seated indoors
+
+RESTAURANT: Would you like a table in our upstairs or downstairs?
+AI: Either is fine
+
+RESTAURANT: Would you like a garden table?
+AI: Uh, can I check and call you back?
+RESTAURANT: Yes, that’s ok, we book up fast so call back quick if you can
+AI: I will do
+
+RESTAURANT: Would you like a garden table?
+AI: Dou your gardens have internet access?
+RESTAURANT: Uh, can I check and call you back?
+RESTAURANT: Yes, that’s ok, call back quick if you can
+AI: I will do
+
+RESTAURANT: Would you like a balcony table?
+AI: Uh, can I check and call you back?
+RESTAURANT: Yes, that’s ok, we book up fast so call back quick if you can
+AI: I will do
+
+AI: Can we have a table outside?
+RESTAURANT: Of course
+
+AI: Can we have a garden table?
+RESTAURANT: I’m sorry but all the garden tables are booked on [DAY]
+
+RESTAURANT: We can only have your table in the garden?
+AI: That’s fine
+
+RESTAURANT: We can only have your table in the balcony
+AI: That’s fine
+
+RESTAURANT: We only have a balcony table free, will that be fine with you?
+AI: Uh, OK, that’s fine
+
+RESTAURANT: We only have a table available in the balcony 
+AI: Uh, I don’t think that’ll suit, but thanks for your time
+
+
+RESTAURANT: We only have a garden table free, it’s also the smoking area
+AI: Uh, OK, that’s fine
+
+RESTAURANT: We only have a smoking zone table free.
+AI: Uh, OK, that’s fine
+
+
+RESTAURANT: We only have a table available in the garden but it’s the smoking area 
+AI: Uh, I don’t think that’ll suit, but thanks for your time
+
+AI: Can you make sure the table isn’t near the bathrooms please?
+RESTAURANT: The bathrooms are in a separate area, that’ll be fine
+
+AI: Can you make sure the table isn’t near the swimming pool please?
+RESTAURANT: The swimming pool is in a separate area, that’ll be fine
+
+AI: Can you make sure the table isn’t near the gym please?
+RESTAURANT: The gyms are in a separate area, that’ll be fine
+
+STORY - NAME
+
+RESTAURANT: May I have your name, please?
+AI: The name is [NAME]
+
+RESTAURANT: And the name on the reservation?
+AI: It’s [NAME]
+
+RESTAURANT: May I have your last name please?
+AI: It’s [NAME]
+
+RESTAURANT: May I have your name?
+AI: Yes, it’s [NAME]
+
+RESTAURANT: Can I take your name?
+AI: The name is [NAME]
+
+RESTAURANT: Can I have your name please?
+AI: It’s [NAME]
+
+RESTAURANT: Can I take your name?
+AI: It’s [NAME]
+
+RESTAURANT: Could I have your name, please?
+AI: The name is [NAME]
+
+RESTAURANT: Your name, please?
+AI: It’s [NAME]
+
+RESTAURANT: Could you tell me your name, please?
+AI: Yes, it’s [NAME]
+
+RESTAURANT: What name can I use to hold the table?
+AI: The name is [NAME]
+
+RESTAURANT: How do you spell your name?
+AI: It’s [SPELL NAME]
+
+RESTAURANT: Can you spell that please?
+AI: Sure. [SPELL NAME]
+
+RESTAURANT: How do you spell that?
+AI: It’s [SPELL NAME]
+
+RESTAURANT: Could you spell that for me, please?
+AI: Sure. [SPELL NAME]
+
+RESTAURANT: Can you repeat the name for me please?
+AI: Sure, it’s {NAME]
+
+RESTAURANT: Can you repeat that please?
+AI: Yeah, it’s {NAME]
+
+STORY CONTACT NUMBER
+RESTAURANT: And a phone number please?
+AI: Uh, [NUMBER]
+
+RESTAURANT: Could I have your telephone number?
+AI: It’s, uh, [NUMBER]
+
+RESTAURANT: May I have your contact number? 
+AI: Uh, [NUMBER]
+
+RESTAURANT: Is there a phone number we can get you on?
+AI: It’s, uh, [NUMBER]
+
+RESTAURANT: May I have your number, please?
+AI: Uh, [NUMBER]
+
+RESTAURANT: I repeat [NUMBER], is that right?
+AI: Yeah, that’s right
+
+RESTAURANT: I repeat [NUMBER], is that right?
+AI: No, actually it’s NUMBER
+
+RESTAURANT: I repeat [NUMBER], please excuse me for a sec
+AI: No problem
+RESTAURANT: Sorry about that. OK, so your number is [NUMBER]?
+AI: Yeah, that’s it
+
+RESTAURANT: Was that a [NUMBER] or a {NUMBER]?
+AI: I’ll repeat it, it’s [NUMBER]
+
+RESTAURANT: That’s one digit too short
+AI: I’ll repeat it, the number is [NUMBER]
+
+STORY CONFIRM DETAILS
+RESTAURANT: Let me just check these reservation details, a table for [PARTY NUMBER], [DAY] at [TIME] in the name of [NAME]. And your phone number is [NUMBER]. Is that correct? 
+AI: Yeah, that’s it
+
+RESTAURANT: So that’s a table for [PARTY NUMBER], for next [DAY] at [TIME]? 
+AI: Yeah, that’s right
+
+RESTAURANT: Okay. Let me repeat it back to you. This is a reservation for [DAY] for [PARTY NUMBER] at [TIME]. Is that correct?
+AI: Uh, actually it’s for [TIME]
+
+RESTAURANT: OK, I will repeat all the information you gave me. [DAY] at [TIME], table for [PARTY NUMBER].
+AI: Uh, it’s for a party of [PARTY NUMBER]
+
+RESTAURANT: OK, let me just double-check your details. Oh, sorry, can you excuse me for a moment?
+AI: Sure
+RESTAURANT: Sorry about that. Where were we, yeah, it’s a table for [NUMBER], on [DAY], at {TIME}
+AI: That’s it
+
+STORY CHECKING AVAILABILITY
+
+RESTAURANT: Please excuse me, while I check the reservations. I’ll be right back. 
+AI: Sure, no problem
+
+RESTAURANT: I’m going to put your call on hold, while I check availability.
+AI: OK 
+
+RESTAURANT: Just one moment please, while I see what we have available.
+AI: OK
+
+RESTAURANT: Thank you, just give me a minute and let me check 
+AI: No problem 
+
+RESTAURANT: I’m just going to put you on hold for a few secs
+AI: That’s fine
+
+RESTAURANT: Hold on one moment please, while I check what’s available. 
+AI: Sure, no problem
+
+RESTAURANT: Please excuse me for a moment. I will check if there is still a table available.
+AI: Great, thanks
+
+RESTAURANT: I’ll take a look and be back in a second.
+AI: That’s great, thanks
+
+STORY CONFIRM BOOKING
+
+RESTAURANT: Thank you for waiting. Yes, we have a spot free. 
+AI: That’s great, thanks!
+
+RESTAURANT: I’m sorry to keep you waiting. I can seat you at [TIME] on [DAY]. 
+AI: Perfect, thanks!
+
+RESTAURANT: Sorry to keep you on hold. We do have a table available at that time. 
+AI: That’s great, thanks!
+
+RESTAURANT: I can confirm your reservation for a table for [PARTY NUMBER], [DAY] at [TIME].
+AI: Great! Thank you so much. I appreciate your help.
+
+RESTAURANT: Yes, that’s fine. See you at [TIME] this [DAY].
+AI: Awesome, thank you
+
+RESTAURANT: Thank you, see you this [DAY] at [TIME].
+AI: That’s great!
+
+RESTAURANT: OK. We will see you this [DAY] at [TIME].
+AI: Great, thank you
+
+RESTAURANT: All booked
+AI: Thank you
+
+RESTAURANT: That’s four people booked for [TIME] tomorrow.
+AI: OK, thank you.
+
+RESTAURANT: OK, we'll see you next week.
+AI: Awesome, thank you
+
+RESTAURANT: OK. Your reservation is booked. Is there anything else I can do for you?
+AI: That’s all, thank you
+
+RESTAURANT: We’ll see you tomorrow evening at [TIME] then.
+AI: Thanks a lot
+
+RESTAURANT: Table for [PARTY NUMBER] at [TIME] this [DAY].
+AI: Thanks a lot
+
+RESTAURANT: Okay, you’re all set. I have you booked in for a table for [PARTY NUMBER] at [TIME] tomorrow.
+AI: Thank you very much, thank you.
+
+RESTAURANT: Okay, done. We reserved your table for [PARTY NUMBER], for tomorrow evening.
+AI: Perfect, thank you!
+
+RESTAURANT: We’re very busy on [DAY]. But I can fit you in at [TIME]. The table is only free for 90 minutes. Is that OK?
+AI: Uh, yeah, that’s fine
+
+RESTAURANT: I’ll need credit card details, we have a cancellation fee if you don’t show up
+AI: Um, OK, I’ll get back to you
+
+RESTAURANT: We can fit you, but you might have to wait 
+AI: That’s fine
+
+RESTAURANT: We can fit you, but there might be a short wait
+AI: That’s OK
+RESTAURANT: We have a bar area you can stay until your table is ready
+AI: Great, thanks
+AI: No, it’s OK
+
+RESTAURANT: We do have a table but you might have to wait a bit
+AI: Uh, I don’t think that’ll suit, but thanks anyway
+
+STORY NO AVAILABILITY
+
+RESTAURANT: I’m afraid we don’t have a table at that time. Would [TIME] be OK?
+AI: Um, let me check and get back to you
+
+RESTAURANT: Unfortunately, we don’t have a table at that time. Would [TIME] be OK?
+AI: Ok, let me check and get back to you
+
+RESTAURANT: I’m afraid we don’t have a table available at that time. But there is a table free at [TIME]. 
+AI: Um, that’s fine
+
+RESTAURANT: I’d love to but I’m sorry we don’t have a table available at that time. But there is a table free at [TIME]. 
+AI: Uh, that’s ok with me.
+
+
+RESTAURANT: I’m sorry to say that we don’t have a table available at that time. Would later suit? Say [TIME]?
+AI: I need to check, I’ll get back to you
+
+RESTAURANT: I’m sorry to say that we don’t have a table available at that time. Would [TIME] suit you?
+AI: I need to check, I’ll get back to you
+
+RESTAURANT: Do you want me to hold the table while you check?
+AI: Uh, yeah, thanks
+
+RESTAURANT: I’m very sorry but we don’t have any tables left for that time, would [TIME] suit?
+AI: Uh, yeah, that’s fine
+
+RESTAURANT: Unfortunately, we don’t have any tables left for [TIME] on Fridays, would [TIME] suit?
+AI: Uh, yeah, that’s fine
+
+RESTAURANT: Sorry. The reservations for today are full. You can reserve for tomorrow.
+AI: Uh, tomorrow doesn’t suit, but thanks anyway
+
+RESTAURANT: Sorry. The reservations for [DAY] are full. You can only reserve from [DAY].
+AI: Uh, [DAY] doesn’t suit, but thanks anyway.
+
+RESTAURANT: Oh, I’m sorry. We’re fully booked this afternoon. 
+AI: Um, OK, thanks anyway
+
+RESTAURANT: Oh, I’m sorry. We’re booked solid this afternoon. 
+AI: Um, OK, thanks anyway
+
+RESTAURANT: We don’t have any tables free at [TIME]. I’m very sorry about that. 
+AI: That’s fine
+
+RESTAURANT: We don’t have any tables free for [DAY]. I’m very sorry about that. 
+AI: That’s fine
+
+RESTAURANT: May I help you to reserve a table at another one of our restaurants instead? 
+AI: Uh, no thanks
+
+RESTAURANT: We’re fully booked at [TIME]. May I help you to reserve a table at another one of our restaurants instead? 
+AI: That’s fine.
+
+RESTAURANT: Perhaps you’d like to book a table in our other restaurant, (RESTAURANT NAME)?
+ 
+RESTAURANT: Sorry. We’re fully booked at [TIME]. Perhaps you’d like to reserve a table in our other restaurant, (RESTAURANT NAME)?
+AI: Uh, no thanks.
+
+RESTAURANT: I’m sorry, we can only fit [NUMBER] people [DAY]
+AI: Uh, OK, thanks anyway
+
+RESTAURANT: I’m sorry, we can only reserve a table for [NUMBER] people [DAY]
+AI: Uh, OK, thanks anyway
+
+RESTAURANT: We’ve only got a table free for [NUMBER] people
+AI: OK, well thanks anyway
+
+RESTAURANT: We’ve only got a table free for [NUMBER] people. I suggest you book at our other restaurant [RESTAURANT NAME]
+AI: OK, well thanks anyway
+
+RESTAURANT: We’ve only got a table free for [NUMBER] people. Would you like to eat in our other restaurant [RESTAURANT NAME]?
+AI: OK, that’s fine.
+
+RESTAURANT: We’ll let you know if there’s a cancellation 
+AI: Great, thanks
+
+RESTAURANT: Do you want us to give you a call if there’s a cancellation 
+AI: Yeah, that’d be great
+
+RESTAURANT: We can give you a call if anyone cancels
+AI: Uh, no it’s OK thanks
+
+RESTAURANT: Can you call back later? I’m waiting to see if a group needs one or two tables
+AI: Sure, no problem
+
+RESTAURANT: Can you call back in [NUMBER] hours? We have a preliminary booking that might cancel
+AI: Yeah sure, thanks
+
+STORY AFTER BOOKING INFORMATION
+
+RESTAURANT: We’ve moved address to [ADDRESS]
+AI: Oh, OK, got it
+
+RESTAURANT: We’ve actually moved address this week
+AI: OK, what’s the new address
+RESTAURANT: It’s [ADDRESS]
+AI: Great, got it
+
+RESTAURANT: Our main entrance is on [STREET NAME]
+AI: OK, thanks
+
+RESTAURANT: There is a band coming on at [TIME]
+AI: OK, great
+
+RESTAURANT: We don’t have any band coming on [DAY]
+AI: No problem,
+
+STORY GOODBYE
+
+RESTAURANT: Well, it was nice talking with you. Bye
+AI: You too. Bye
+
+RESTAURANT: Thanks for calling. Have a nice day
+AI: You too. Bye
+
+RESTAURANT: Anyway...I should let you go. Have a nice day
+AI: You too. Bye
+
+RESTAURANT: Anyway...I should I should get going. Have a nice day
+AI: You too. Bye
+
+RESTAURANT: Thank you very much for calling, [NAME]. We look forward to seeing you then. Have a great day.
+AI: You too
+
+RESTAURANT: Thank you very much for calling, [RESTAURANT NAME]. We look forward to seeing you then. Have a great day.
+AI: You too
+
+RESTAURANT: Thank you very much for booking with us, and we look forward to being of service to you this evening.
+AI: Bye
+
+RESTAURANT: Thank you [NAME], we look forward to seeing you later. 
+AI: Thanks again, bye
+
+RESTAURANT: Have a pleasant day
+AI: Yeah, you too
+
+RESTAURANT: Thank you for calling
+AI: Bye, bye bye
+
+RESTAURANT: Look forward to seeing you, [NAME]
+AI: Bye, bye bye
+
+RESTAURANT: Should you require any assistance, Please do not hesitate to contact me
+AI: Thanks, bye
+
+RESTAURANT: Should you require any assistance, Please do not hesitate to contact [RESTAURANT NAME]
+AI: Thanks, bye
+
+RESTAURANT: Should you need further assistance, please call me
+AI: Thanks, bye bye
+
+RESTAURANT: Should you further assistance, please call [RESTAURANT NAME]
+AI: Thanks, bye bye
+
+RESTAURANT: If I can be of assistance, please do not hesitate to contact me
+AI: Thanks, bye
+
+RESTAURANT: If I can be of assistance, please do not hesitate to contact [RESTAURANT NAME]
+AI: Thanks, bye
+
+RESTAURANT: If you require any further information, feel free to contact me.
+AI: Thank you, bye
+
+RESTAURANT: If you require any further information, feel free to contact [RESTAURANT NAME].
+AI: Thank you, bye
+
+RESTAURANT: If you require any further information, let me know
+AI: Thanks again, bye
+
+RESTAURANT: Please feel free to contact me if you need any further information.
+AI: Thanks, bye
+
+RESTAURANT: Please feel free to contact [RESTAURANT NAME] if you need any further information.
+AI: Thanks, bye
+
+RESTAURANT: Should I be of any help, please do not hesitate to contact me.
+AI: Thanks, bye bye
+
+RESTAURANT: Should I be of any help, please do not hesitate to contact [RESTAURANT NAME].
+AI: Thanks, bye bye
+
+RESTAURANT: Should you need further clariffication, please do not hesitate to call me.
+AI: Thanks, bye bye
+
+RESTAURANT: Should you need further clariffication, please do not hesitate to call [RESTAURANT NAME].
+AI: Thanks, bye bye
+
+RESTAURANT: Should you have any queries, do not hesitate to call me
+AI: Sure, bye bye
+
+RESTAURANT: Should you have any queries, do not hesitate to call [RESTAURANT NAME]
+AI: Sure, bye bye
+
+RESTAURANT: Should you have any other concerns, please do not hesitate to call me
+AI: Thanks, bye bye
+
+RESTAURANT: Should you have any other concerns, please do not hesitate to call [RESTAURANT NAME]
+AI: Thanks, bye bye
+ 
+STORY CHANGE BOOKING
+
+AI: Hi, would it be possible to add [NUMBER] people to my table?
+RESTAURANT: No problem, how many people were you booked for?
+
+AI: Hi, would it be possible to decrease [NUMBER] people from my table?
+RESTAURANT: No problem, how many people were you booked for?
+
+AI: Hi, I need to change my reservation
+RESTAURANT: No problem, what name is it booked under?
+
+AI: Hello, can I change the number of hours in my table from [NUMBER] to [NUMBER]?
+RESTAURANT: No problem, what name is it booked under?
+
+AI: Hello, can I change the number of people in my table from [NUMBER] to [NUMBER]?
+RESTAURANT: No problem, what name is it booked under?
+
+AI: Hello, I’m calling to change the number of guests in my table from [NUMBER] to [NUMBER]?
+RESTAURANT: No problem, what name is it booked under?
+
+AI: Hello, I’m calling to change the number of guests in my table from [NUMBER] to [NUMBER]?
+RESTAURANT: No problem, what name is it booked under?
+
+AI: Hello, can I change the number of hours on my table from [NUMBER] to [NUMBER]?
+RESTAURANT: No problem, what name is it booked under?
+
+AI: Hi, I need to change my booking
+RESTAURANT: No problem, what’s your name?
+
+AI: Hi, I need to change the number of guests in my table
+RESTAURANT: No problem, what’s your name?
+
+AI: Hi, I need to change the number of people in my table
+RESTAURANT: No problem, what’s your name?
+
+
+AI: Hello, I would like to change my reservation, please
+RESTAURANT: No problem, what name is it booked under?
+
+AI: Hi, I would like to change my booking, please
+RESTAURANT: No problem, what’s your name?
+
+AI: Hi, I’m calling to change my reservation time
+RESTAURANT: OK. What day is it reserved for?
+
+AI: Hello, I would like to change my reservation time, please
+RESTAURANT: No problem, what name is it booked under?
+
+AI: Hello, I would like to change the number of guests in my table, please
+RESTAURANT: No problem, what name is it booked under?
+
+AI: Hello, I’m calling to change my booking time
+RESTAURANT: OK. What day is it booked for?
+
+AI: HI, would it be possible to change the time of a booking from [TIME] to [TIME]?
+RESTAURANT: No problem, what name is it booked under?
+
+AI: HI, would it be possible to change the day of a reservation from [DAY] to [DAY]?
+RESTAURANT: No problem, what name is it reserved under?
+
+AI: Hi, uh, I have a table for tomorrow afternoon at [TIME], can I change that to [TIME]?
+RESTAURANT: Sure, what’s the name?
+
+AI: Hello, I’m afraid I must ask you to alter my booking from [TIME] to [TIME]
+RESTAURANT: Give me a few seconds, please.
+AI: Ok
+
+AI: Hello, I’m afraid I must ask you to alter my reservation from [TIME] to [TIME]
+RESTAURANT: I would love to, but our tables are fully booked at [TIME]. I suggest we alter it to [TIME]
+AI: Ok
+
+AI: Hi, uh, is it possible to change a reservation from [TIME] to [TIME]?
+RESTAURANT: I’ll check now. Can you tell me your name?
+
+AI: Hi, I’m calling to change my reservation time
+RESTAURANT: Give me a moment please
+AI: OK
+RESTAURANT: Sorry about that, we’re very busy right now. How can I help you?
+AI: No problem. Uh, I have a table for tomorrow at, [TIME], can I change that to [TIME]?
+RESTAURANT: Let me check our system, one second 
+
+CANCEL BOOKING 
+AI: Hi, I need to cancel a booking
+RESTAURANT: OK. What day is the table booked for?
+
+AI: Hi, I’m calling to cancel a reservation
+RESTAURANT: I need your name please
+
+AI: Hi, I would like to cancel my booking, please.
+RESTAURANT: OK. What day is the table booked for?
+
+AI: Hi, I need to cancel a reservation
+RESTAURANT: No problem, what’s the name?
+
+AI: Hi, I would like to cancel my reservation, please.
+RESTAURANT: OK. What day is the table booked for?
+
+AI: Unfortunately I have to cancel my booking for [DAY]
+RESTAURANT: I need your name please
+
+AI: Unfortunately I have to cancel my reservation for [DAY]
+RESTAURANT: I need your name please
+
+AI: I’m afraid I have to cancel my booking for [DAY]
+RESTAURANT: No problem, what’s your name?
+
+AI: I’m afraid I have to cancel my reservation for [DAY]
+RESTAURANT: No problem, what’s your name?
+
+AI: Hi, I’m calling to cancel a booking
+RESTAURANT: Can you hold on a second
+AI: No problem
+RESTAURANT: Sorry about that, how can I help you?
+AI: I need to cancel a booking
+RESTAURANT: OK, is it for today?
+AI: It’s for [DAY]
+
+AI: Hi, I’m calling to cancel a reservation
+RESTAURANT: Can you hold on a second
+AI: No problem
+RESTAURANT: Sorry about that, how can I help you?
+AI: I need to cancel a reservation
+RESTAURANT: OK, is it for today?
+AI: It’s for [DAY]
+
+AI: Hello, I’m calling to cancel a booking
+RESTAURANT: Our booking system is down at the moment. Could you call say in [NUMBER] minutes?
+AI: No problem
+
+AI: Hello, I’m calling to cancel a reservation 
+RESTAURANT: Our booking system is down at the moment. Could you call say in [NUMBER] minutes?
+AI: No problem
+
+AI: Hi, I need to cancel a booking
+RESTAURANT: OK, is it for today?
+AI: Yeah, for, uh, [TIME]
+
+AI: Hi, I need to cancel a reservation
+RESTAURANT: OK, is it this evening?
+AI: Yeah, for, uh, [TIME]
+
+STORY - CONFUSION/ MISCELLANEOUS THINGS
+RESTAURANT: Sorry about the noise, we’re very busy today
+AI: That’s fine
+
+RESTAURANT: [UNCLEAR COMMENT FROM RESTAURANT]
+AI: Sorry, uh, can you repeat that
+
+RESTAURANT: [UNCLEAR COMMENT FROM RESTAURANT]
+AI: Sorry, I didn’t catch that
+
+RESTAURANT: [UNCLEAR COMMENT FROM RESTAURANT]
+AI: Can you repeat that please?
+
+RESTAURANT: [UNCLEAR COMMENT FROM RESTAURANT]
+AI: The connection isn’t great, can you repeat that?
+
+RESTAURANT: [UNCLEAR COMMENT FROM RESTAURANT]
+AI: Sorry, uh, I didn’t catch that
+
+RESTAURANT: There’s something wrong with the line. Can you repeat that?
+AI: Sure, [REPEATS ANSWER]
+
+RESTAURANT: This line is bad, can you call back?
+AI: Sure
+[AI CALLS BACK]
+
+RESTAURANT: And how are you today?
+AI: I’m great, thanks
+
+RESTAURANT: [SAYS A LOT OF MENU INFORMATION]
+AI: OK, thanks, we’ll decide when we get there
+
+STORY - CHILD POLICY
+
+RESTAURANT: We have no child policy after [TIME]
+AI: OK, no problem
+
+RESTAURANT: It’s a no child policy restaurant
+AI: Uh, OK, well thanks anyway
+
+STORY - MENU ISSUES 
+
+RESTAURANT: [DAY] is our special menu, it’s [FOOD TYPE]
+AI: OK, thanks
+
+RESTAURANT: Our [FOOD TYPE] delivery couldn’t make it today, so it won’t be on the menu
+AI: OK, thanks for letting me know
+
+RESTAURANT: We serve a buffet on [DAY], is that OK?
+AI: Yeah, sure
+
+RESTAURANT: We have a buffet on [DAY], but we also have our normal menu
+AI: OK, great
+
+RESTAURANT: Does your group want the buffet or the regular menu?
+AI: The buffet is good 
+
+RESTAURANT: Will you be having the buffet or our special menu?
+AI: Can we decide when we arrive?
+RESTAURANT: Yes, that’s no problem 
+AI: Great
+
+RESTAURANT: Are you having the regular menu or the buffet?
+AI: We’ll choose when we get there
+RESTAURANT: We need to know in advance
+AI: Uh, OK, I’ll check and get back to you
+
+RESTAURANT: It’s bring your own wine. There’s a corkage fee, it’s [AMOUNT]
+AI: OK, thanks for letting me know
+
+RESTAURANT: It’s a BYOB restaurant, there’s no corkage fee
+AI: Do you also have a drinks menu?
+RESTAURANT: No, our license doesn’t permit it
+AI: OK, that’s fine
+
+STORY - CALLING BACK
+RESTAURANT: [LINE GOES DEAD]
+AI: [CALLS BACK] Hi, uh, our call got disconnected
+
+RESTAURANT: [DOESN’T COME BACK TO THE PHONE AFTER CHECKING SOMETHING]
+AI: [CALLS BACK] Hi, I was making a booking and something happened to the line
+RESTAURANT: OK, what was the name?
+AI: We didn’t get that far, you were checking something for me
+RESTAURANT: Oh, OK, can you tell me what day again you want a table?
+
+RESTAURANT: [DOESN’T COME BACK TO THE PHONE AFTER CHECKING SOMETHING]
+AI: [CALLS BACK] Hi, I was just making a booking with you
+RESTAURANT: Oh, I’m sorry, I don’t know what happened
+AI: That’s fine
+RESTAURANT: Right, so it was for [NAME], wasn’t it?
+AI: Yeah, that’s right
+
+AI: Hi, I’m calling to confirm a reservation I made earlier
+RESTAURANT: What day is your reservation for?
+AI: Uh, it’s for [DAY], under the name [NAME]
+RESTAURANT: Got it. All confirmed, see you [day]
+AI: That’s great, thanks
+
+AI: Hi, I’m calling to confirm a reservation I made earlier
+RESTAURANT: What day is it for?
+AI: Um, it’s for [DAY], for the name [NAME]
+RESTAURANT: Right, let me check. Can you hold a sec please?
+AI: Yeah, no problem
+RESTAURANT: Hi, I’m so sorry about this but my colleague has booked the table for someone else, while we were waiting for you to call back
+AI: Uh, OK, that’s fine
+RESTAURANT: I’m very sorry for the mix-up, my colleague is new and isn’t familiar with our system
+AI: It’s no problem
+
+AI: Hi, I’m calling to confirm a reservation
+RESTAURANT: OK. What day are you coming?
+AI: Uh, it’s for [DAY], under the name [NAME]
+RESTAURANT: I’ll just take a look. One minute
+AI: OK
+RESTAURANT: I’m sorry but we don’t have a record of your booking
+AI: Uh, OK, can you make the booking now?
+RESTAURANT: Yes we can, we still have a table free. I’ll just need to take some details
+
+AI: Hi, I’m calling to confirm a table
+RESTAURANT: OK. What day?
+AI: Uh, it’s for [DAY], under the name [NAME]
+RESTAURANT: Let me look for it, one second 
+AI: OK
+RESTAURANT: I can’t find your booking here, are you sure it’s for [DAY]
+AI: Yeah, it’s for [DAY]
+RESTAURANT: I’ve looked again and there isn’t a record of it, I’m sorry about this
+AI: Can you book the table now
+RESTAURANT: We’re fully booked on [DAY], sorry
+AI: OK, that’s fine, thanks
+
+STORY - WRONG NUMBER
+
+AI: [CALLS WRONG NUMBER]
+PERSON: Hello
+AI: Hi, I’m calling to make a reservation
+PERSON: Sorry, you must have dialed the wrong number
+AI: Oh I’m sorry, have a good day
+
+AI: [CALLS WRONG NUMBER]
+PERSON: Yes
+AI: Hi, I’m calling to book a table
+PERSON: This isn’t a restaurant
+AI: Oh I’m sorry, have a good day
+
+AI: [CALLS WRONG NUMBER]
+PERSON: Yes
+AI: Hi, I’d like to reserve a table please 
+PERSON: Wrong number
+AI: Oh I’m sorry, have a good day
+
+AI: [CALLS WRONG NUMBER]
+PERSON: Yes
+AI: Hi, I’d like to book a table
+PERSON: I believe you have reached a wrong number
+AI: Oh, I’m sorry, have a good day
+
+AI: [CALLS WRONG NUMBER]
+PERSON: Yes
+AI: Hi, I’m calling to make a reservation
+PERSON: Sorry, I think you have the wrong number
+AI: Oh, I’m sorry, have a good day
+
+AI: [CALLS WRONG NUMBER]
+PERSON:Hello
+AI: Hi, please reserve me a table
+PERSON: You need to call a restaurant
+AI: Oops, sorry.
+
+AI: [CALLS WRONG NUMBER]
+PERSON: Yes
+AI: Hi, I’m calling to reserve a table
+PERSON: This isn’t a restaurant
+AI: I apologize. Have a good day.
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Yes
+AI: Hi. I'd like to make booking
+PERSON: I think you ought to call a restaurant.
+AI: Oh, I'm sorry, have a good day.
+
+AI: [CALLS WRONG NUMBER]
+PERSON: Yes
+AI: Hi, I’d like to hold a table, please.
+PERSON: This isn’t a restaurant
+AI: My bad, have a good day
+
+AI: [CALLS WRONG NUMBER]
+PERSON: Yes
+AI: Hi, I’m calling to make a reservation
+PERSON: Sorry, I think you have the wrong number
+AI: Oh, my mistake, have a good day
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Yes
+AI: Hi. I'd like to make booking
+PERSON: I think you ought to call a restaurant.
+AI: Oh, Please excuse me, have a good day.
+
+AI: [CALLS WRONG NUMBER]
+PERSON: Yes
+AI: Hi, I’d like to reserve a table
+PERSON: I believe you have reached a wrong number
+AI: Oh, I’m sorry, have a good day
+
+AI: [CALLS WRONG NUMBER]
+PERSON: Yes
+AI: Hi, I’d like to hold a table, please.
+PERSON: I'm sorry but this isn’t a restaurant
+AI: My bad, have a good day
+
+AI: [CALLS WRONG NUMBER]
+PERSON: Yes
+AI: Hi, would you please reserve me a table?
+PERSON: I believe you have reached a wrong number
+AI: Oh, I’m sorry, have a good day
+
+AI: [CALLS WRONG NUMBER]
+PERSON: Yes
+AI: Hi, I’m calling to reserve a table
+PERSON: I'm afraid this isn’t a restaurant
+AI: I apologize. Have a good day.
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Yes
+AI: Hi, please book me a table
+PERSON: I think you ought to call a restaurant.
+AI: Oh, apologies, have a good day.
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Hello
+AI: Hi, I'm calling to book a table
+PERSON: I think you ought to call a restaurant.
+AI: Excuse me for calling dialling a wrong number
+RESTAURANT: Don't worry, you are forgiven
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Hello
+AI: Hi, I'm calling to reserve a table
+PERSON: I'm soryy, this isn't a restaurant.
+AI: I apologize for calling dialling a wrong number
+RESTAURANT: No need to apologize, it's OK.
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Hello
+AI: Hi, I'm calling to hold a table
+PERSON: I'm soryy, you ought to have called a restaurant.
+AI: I beg you pardon
+RESTAURANT: That's alright
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Hello
+AI: Hi, I'd like to book a table
+PERSON: Excuse me, this isn't a restaurant.
+AI: I do apologize for calling the wrong number
+RESTAURANT: Never mind
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Yes
+AI: Hi, I'd like to reserve a table
+PERSON: You ought to have called a restaurant.
+AI: I must apologize for dialling the wrong number
+RESTAURANT: No harm done
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Yes
+AI: Hi, I'd like to hold a table
+PERSON: You must have dialled a wrong number.
+AI: I shouldn't have done that. Don't be mad at me
+RESTAURANT: I quite understand.
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Hello
+AI: Hi, please book me a table
+PERSON: You must have dialled a wrong number.
+AI: I shouldn't have done that.
+RESTAURANT: I quite understand.
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Hello
+AI: Hi, please reserve me a table
+PERSON: You must have dialled a wrong number.
+AI: I was wrong to have called this number. Can you forgive me?
+RESTAURANT: Don't worry, you're forgiven.
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Hello
+AI: Hi, please hold me a table
+PERSON: Sorry. You have dialled a wrong number.
+AI: I'd like to apologize for dialling the wrong number
+RESTAURANT: No worries.
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Hello
+AI: Hi, would you please reserve me a table
+PERSON: You must have dialled a wrong number.
+AI: I'm terribly sorry for dialling the wrong number
+RESTAURANT: No problem 
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Yes
+AI: Hi, would you please book me a table
+PERSON: This isn't a restaurant.
+AI: I'd like to apologize for dialling the wrong number
+RESTAURANT: It's fine
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Hello
+AI: Hi, would you please hold me a table
+PERSON: You must have dialled a wrong number.
+AI: My apologies for for dialling the wrong number
+RESTAURANT: Think nothing of it
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Yes
+AI: Hi, I'd like to book a table, please
+PERSON: You should have called a restaurant.
+AI: Pardon me for dialling the wrong number
+RESTAURANT: That's all right
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Yes
+AI: Hi, I'd like to reserve a table, please
+PERSON: You must dialled a wrong number.
+AI: Pardon me for this
+RESTAURANT: It's all fine
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Yes
+AI: Hi, I'd like to hold a table, please
+PERSON: You should have called a restaurant.
+AI: Please accept my apology for dialling the wrong number
+RESTAURANT: Forget about it
+
+AI: [CALLS WRONG NUMBER]
+PERSON:  Yes
+AI: Hi, I'd like to reserve a table, please
+PERSON: You must dialled a wrong number.
+AI: Please, forgive me for this
+RESTAURANT: It's all fine
+
+STORY - AI NEEDS TO DELAY ANSWER
+
+AI: Let me think, uh, [ANSWER]
+
+AI: Give me a sec, uh, [ANSWER]
+
+AI: Um, I’ll just be a sec, [ANSWER]
+
+AI: Let me check something, I’ll be one second, [ANSWER]
+
+AI: Um, hang on one second, [ANSWER]
+
+AI: Let me see, uh, [ANSWER] 
+
+AI: Just a sec,[ANSWER]
+
+AI: Excuse me a minute[ANSWER]
+
+AI: Um, hang on a moment[ANSWER]
+
+AI: Now, let me think[ANSWER]
+
+AI: Uh, hold on,[ANSWER]
+
+AI: Um, just a minute, [ANSWER]
+
+AI: Just let me say, [ANSWER]
+
+AI: Just a minute, uh, [ANSWER]
+
+AI: Just a moment, um, [ANSWER]
+
+AI: Just a second, uh, [ANSWER]
+
+AI: Just a minute, please, [ANSWER]
+
+AI: Just a moment, please, [ANSWER]
+
+AI: Just a second, please, [ANSWER]
+
+AI: Uh, can you wait a minute, [ANSWER]
+
+AI: Can you wait a moment, [ANSWER]
+
+AI: Can you wait a second, [ANSWER]
+
+AI: Can you wait a minute, please, [ANSWER]
+
+AI: Can you wait a moment, please, [ANSWER]
+
+AI: Can you wait a second, please, [ANSWER]
+
+AI: Can you hold on, please, [ANSWER]
+
+AI: Hold on, please, [ANSWER]
+
+AI: Hold on a minute, [ANSWER]
+
+AI: Hold on a moment, [ANSWER]
+
+AI: Hold on a second, [ANSWER]
+
+AI: Hang on a minute, [ANSWER]
+
+AI: Hang on a moment, [ANSWER]
+
+AI: Hang on a second, [ANSWER]
+
+AI: Wait a minute, [ANSWER]
+
+AI: Wait a moment, [ANSWER]
+
+AI: Wait a second, [ANSWER]
+
+AI: Wait a minute, please, [ANSWER]
+
+AI: Wait a moment, please, [ANSWER]
+
+AI: Wait a second, please, [ANSWER]
+
+AI: In a minute, please, [ANSWER]
+
+AI: In a moment, please, [ANSWER]
+
+AI: In a second, please, [ANSWER]
+
+AI: In a minute, [ANSWER]
+
+AI: In a moment, [ANSWER]
+
+AI: In a second, [ANSWER]
+
+STORY – AI DOES NOT UNDERSTAND WHAT IS SAID.
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Sorry? 
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Excuse me?
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Pardon?
+
+RESTAURANT: [SAYS SOMETHING]
+AI: I beg your pardon?
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Sorry, I’m afraid I don’t follow you.
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Excuse me, could you repeat that?
+
+RESTAURANT: [SAYS SOMETHING]
+AI: I’m sorry, I didn’t catch that.
+
+RESTAUANT: [SAYS SOMETHING]
+AI: I’m sorry, I don’t understand
+
+RESTAURANT: [SAYS SOMETHING]
+AI: I’m confused. Could you tell me again?
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Come again?
+
+RESATAURANT: [SAYS SOMETHING]
+AI: Sorry, I don't understand
+
+RESTAURANT: [SAYS SOMETHING]
+AI: I didn't hear you. Could you please tell me again?
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Sorry, I don't get it.
+
+RESTAURANT: [SAYS SOMETHING]
+AI: I'm afraid, this is all Greek to me. 
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Could you clarify that?
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Do you mean that [MENTIONS]
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Would you tell me a little bit more about that?
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Could you explain what that means?
+
+STORY - GETTING THE CONVERSATION ON TRACK
+RESTAURANT:[SAYS SOMETHING]
+AI: Sorry, I lost my train of thought. What was I saying?
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Let's stay on track
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Sorry I lost track. What were you saying?
+
+RESTAURANT: [SAYS SOMETHING]
+AI: I know you said [MENTIONS]. To me that means [MENTIONS]. Is that the same thing to you?
+
+RESTAURANT: [SAYS SOMETHING]
+AI: I am not following you clearly. I understand what you mean about [MENTIONS] but I'm unclear about [MENTIONS]
+
+RESTAURANT: [SAYS SOMETHING]
+AI: Did I understand you to say that [MENTIONS]?
+
+STORY - INTERRUPTING
+
+RESTAURANT: [SAYS SOMETHING BUT IS INTERRUPTED]
+AI: I need to add something here
+
+RESTAURANT: [SAYS SOMETHING BUT IS INTERRUPTED]
+AI: Can I just say something here?
+
+RESTAURANT: [SAYS SOMETHING BUT IS INTERRUPTED]
+AI: I'd like to add [MENTIONS]
+
+RESTAURANT: [SAYS SOMETHING BUT IS INTERRUPTED]
+AI: Let me interrupt a second
+
+RESTAURANT: [SAYS SOMETHING BUT IS INTERRUPTED]
+AI: I'm sorry to interrupt, but [MENTIONS]
+
+RESTAURANT: [SAYS SOMETHING BUT IS INTERRUPTED]
+AI: I don't mean to interrupt but[STATES]
+
+RESTAURANT: [SAYS SOMETHING BUT IS INTERRUPTED]
+AI: Sorry for interrupting, but [MENTIONS]
+
+RESTAURANT: [SAYS SOMETHING BUT IS INTERRUPTED]
+AI: Can I stop you there for a second?
+
+RESTAURANT: [SAYS SOMETHING BUT IS INTERRUPTED]
+AI: Can I just mention something?
+
+RESTAURANT: [SAYS SOMETHING BUT IS INTERRUPTED]
+AI: Excuse me for interrupting but [MENTIONS]
+
+RESTAURANT: [SAYS SOMETHING BUT IS INTERRUPTED]
+AI: Just a moment,I'd like to [MENTIONS]
+
+RESTAURANT: [SAYS SOMETHING BUT IS INTERRUPTED]
+AI: Before you move on, I'd like to say something.
+
+STORY - AI SHARES OPINION
+
+RESTAURANT: [EXPLAINS SOMETHING]
+AI: I think [GIVES OPINION]
+
+RESTAURANT: [EXPLAINS SOMETHING]
+AI: I agree that [GIVES OPINION]
+
+RESTAURANT: [EXPLAINS SOMETHING]
+AI: I suggest [GIVES OPINION]
+
+RESTAURANT: [EXPLAINS SOMETHING]
+AI: I am not sure but [GIVES OPINION]
+
+RESTAURANT: [EXPLAINS SOMETHING]
+AI: Actually [GIVES OPINION]
+
+RESTAURANT: [EXPLAINS SOMETHING]
+AI: How about [GIVES OPINION]
+
+RESTAURANT: [EXPLAINS SOMETHING]
+AI: What if [GIVES OPINION] 
+
+RESTAURANT: [EXPLAINS SOMETHING]
+AI: It would be interesting to [GIVES OPINION]
+
+STORY - GETTING CONVERSATION BACK ON TRACK
+
+RESTAURANT: I didn't catch that. Would you please repeat it?
+AI: [REPEATS]
+
+RESTAURANT: I know you said to do [SAYS SOMETHING]. To me that means [EXPLAINS]. Is that the same thing to you.
+AI: Um, I meant [EXPLAINS SOMETHING]
+
+RESTAURANT: I'm not following you precisely. I understand what you meant about part [SAYS SOMETHING] but I'm unclear about part [SAYS SOMETHING].
+AI: Well, I meant that [EXPLAINS SOMETHING]
+
+RESTAURANT: I've heard you say that twice now, but I'm somehow it's not registering with me. Is there a different way you could say it?
+AI: Um, [EXPLAINS SOMETHING]
+
+RESTAURANT: It sounds like yOu want to [SAYS SOMETHING]. Is that correct?
+AI: I'm afraid you didn't get me clearly. I said [EXPLAINS SOMETHING]
+
+RESTAURANT: Did I understand you to say that you want to [SAYS SOMETHING]
+AI: Not really, instead I said [EXPLAINS SOMETHING]
+
+STORY - ENDING TABLE BOOKING CONVERSATION
+
+RESTAURANT: Thank you for booking with us
+AI: Have a good day.
+RESTAURANT: You too
+
+RESTAURANT: Thanks so much for booking with us
+AI: Have a good day.
+RESTAURANT: You too
+
+RESTAURANT: Thanks a lot for booking with us
+AI: Have a good day.
+RESTAURANT: You too
+
+RESTAURANT: Thanks a bunch for booking with us
+AI: Have a good day.
+RESTAURANT: You too
+
+RESTAURANT: Thank you for booking with [RESTAURANT]
+AI: It was wonderful to talk with you
+RESTAURANT: You too
+
+RESTAURANT: Thanks so much for booking with [RESTAURANT]
+AI: It was wonderful to talk with you
+RESTAURANT: You too
+
+RESTAURANT: Thanks a lot for booking with [RESTAURANT]
+AI: It was wonderful to talk with you
+RESTAURANT: You too
+
+RESTAURANT: Thanks a bunch for booking with [RESTAURANT]
+AI: It was wonderful to talk with you
+RESTAURANT: You too
+
+RESTAURANT: I'm truly gratefully for booking with us
+AI: It was wonderful talking to you. Bye
+
+RESTAURANT: You too
+
+RESTAURANT: I'm truly gratefully for booking with [RESTAURANT]
+AI: Thank you. Bye
+RESTAURANT: You too, bye
+
+RESTAURANT: I'm enternaly gratefully for booking with us
+AI: It was wonderful talking to you. Bye
+RESTAURANT: You too
+
+RESTAURANT: I'm enternaly gratefully for booking with [RESTAURANT]
+AI: It was wonderful talking to you. Bye
+RESTAURANT: You too
+
+RESTAURANT: I want you to know how much we value your booking
+AI: It was wonderful talking to you. Bye
+RESTAURANT: You too
+
+RESTAURANT: I want you to know how much [RESTAURANT] values your booking
+AI: It was wonderful talking to you. Bye
+RESTAURANT: You too
+
+RESTAURANT: I cannot thank you enough for booking with us
+AI: It was wonderful talking to you. Bye
+RESTAURANT: You too
+
+RESTAURANT: I cannot thank you enough for booking with [RESTAURANT]
+AI: It was wonderful talking to you. Bye
+RESTAURANT: You too
+
+RESTAURANT: Please accept my deepest thanks for booking with us
+AI: It was wonderful talking to you. Bye
+RESTAURANT: You too
+
+RESTAURANT: Please accept my deepest thanks for booking with [RESTAURANT]
+AI: It was wonderful talking to you
+RESTAURANT: You too
+
+RESTAURANT: Thank you for booking with us. We look forward to seeing you soon.
+AI: Thank you too. Bye, bye
+AI: Bye
+
+RESTAURANT: Thank you for booking with [RESTAURANT]. We look forward to seeing you soon.
+AI: Thank you too. Bye, bye
+RESTAURANT: Bye
+
+RESTAURANT: Your booking is greately appreciated and we look forward to seeing you soon.
+AI: You too
+
+RESTAURANT: On behalf of [RESTAURANT], I'd like to sincerely express my appreciation for your booking this afternoon. I look forward to another successful booking.
+AI: Thank you too. Bye, bye
+RESTAURANT: Bye
+
+RESTAURANT: We look forward to seeing you
+AI: Thank you.
+RESTAURANT: Thank you too
+
+RESTAURANT: I anticipate seeing you soon
+AI: Thank you.
+RESTAURANT: Thank you too
+
+RESTAURANT: I wait the opportunity for another successful reservation
+AI: Thank you.
+RESTAURANT: You too
+
+RESTAURANT: I'm eargely waiting for another successful booking
+AI: Thank you.
+RESTAURANT: You too
+
+RESTAURANT: Your prompt arrival will be appreciated
+AI: Thank you.
+RESTAURANT: You too
+
+RESTAURANT: I wait to welcome you to [RESTAURANT] soon
+AI: Thank you.
+RESTAURANT: You too
+
+RESTAURANT: I hope to see you very soon
+AI: Thank you.
+RESTAURANT: You too
+
+RESTAURANT: See you soon.
+AI: Thank you
+RESTAURANT: You too
+
+RESTAURANT: It was nice talking with you
+AI: You too
+
+RESTAURANT: Glad talking to you
+AI: You too
+
+RESTAURANT: It was good talking with you
+AI: You too
+
+RESTAURANT: It was great talking with you
+AI: You too
+
+RESTAURANT: Happy to have booked you a table
+AI: You too
+
+RESTAURANT: It was wonderful talking to you
+AI: You too
+
+RESTAURANT: I've enjoyed booking you a table
+AI: You too
+
+RESTAURANT: It was fun talking to you
+AI: You too
+
+RESTAURANT: It was nice to have booked you a table
+AI: You too
+
+RESTAURANT: Pleased to have reserved you a table
+AI: You too
+
+RESTAURANT: Nice talking with you
+AI: You too
+
+RESTAURANT: Bye
+AI: Bye.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
